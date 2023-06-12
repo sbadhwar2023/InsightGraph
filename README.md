@@ -16,6 +16,12 @@ Our project aims to create a simplified knowledge graph from article abstacts to
    ```sh
    pip install -r requirements.txt
    ```
+3. Provide openai and neo4j authentications parameters using config.
+
+4. Run streamlit app
+   ```sh
+   streamlit run app.py
+   ```
 
 # Contributing
 We are still working on developing our project and would greatly appreciate your feedback and contributions.
@@ -25,6 +31,6 @@ We are still working on developing our project and would greatly appreciate your
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Contact
-If you have any questions or comments, feel free to reach out to us at defne.circi@duke.edu.
+If you have any questions or comments, feel free to reach out to us at defne.circi@duke.edu, shruti@reincarnateartificial.com
 
 Thank you for taking the time to check out our project!
